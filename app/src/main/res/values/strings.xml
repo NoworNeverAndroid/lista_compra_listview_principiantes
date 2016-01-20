@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">List3</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_producto">Nombre</string>
+    <string name="descripcion_producto">Descripcion</string>
+    <string name="signin">Añade un producto</string>
+    <string name="cancel">cancela</string>
+    <string name="Producto">Producto para la Lista</string>
+    <string name="studentName">Producto para la lista</string>
+    <string name="ok">ok</string>
+
+    <string name="enterAlphanumeric">Enter only alphanumeric characters</string>
+
+    <string-array
+        name="titulos">
+        <item>Pan</item>
+        <item>Naranjas</item>
+        <item>Zanaorias</item>
+        <item>Cereales</item>
+        <item>Leche</item>
+        <item>Limon</item>
+        <item>Sal</item>
+    </string-array>
+
+    <string-array
+        name="descripciones">
+        <item>Porción de masa de harina, por lo común de trigo, y agua que se cuece en un horno y sirve de alimento.</item>
+        <item>Fruto del naranjo, de forma globosa, de seis a ocho centímetros de diámetro, corteza rugosa, de color entre rojo y amarillo, como el de la pulpa, que está dividida en gajos, y es comestible, jugosa y de sabor agridulce.</item>
+        <item>Planta herbácea umbelífera, con flores blancas, y purpúrea la central de la umbela; fruto seco y comprimido y raíz fusiforme, de unos dos decímetros de largo, amarilla o rojiza, jugosa y comestible.</item>
+        <item>Se dice de las plantas gramíneas que dan frutos farináceos, o de estos mismos frutos, como el trigo, el centeno y la cebada</item>
+        <item>Sustancia líquida y blanca que segregan las mamas de las hembras de los mamíferos para alimentar a sus crías y que está constituida por caseína, lactosa, sales inorgánicas, glóbulos de grasa suspendidos y otras sustancias; especialmente la que producen las vacas, que sirve como alimento y de la cual se obtiene, además, queso, yogur, mantequilla y otros derivados.</item>
+        <item> Fruto del limonero, de forma ovoide, con unos diez centímetros en el eje mayor y unos seis en el menor, pezón saliente en la base, corteza lisa, arrugada o surcada según las variedades, y frecuentemente de color amarillo, pulpa amarillenta dividida en gajos, comestible, jugosa y de sabor ácido.</item>
+        <item>Sustancia ordinariamente blanca, cristalina, de sabor propio bien señalado, muy soluble en agua, crepitante en el fuego y que se emplea para sazonar los alimentos y conservar las carnes muertas. Es el cloruro sódico; abunda en las aguas del mar y se halla también en masas sólidas en el seno de la tierra, o disuelta en lagunas y manantiales.</item>
+    </string-array>
+
+</resources>
